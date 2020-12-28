@@ -1,6 +1,6 @@
-# daun_herbal
+# frontend classification leaves herbal
 
-A new Flutter project.
+A new Flutter project for classification leaves herbal.
 
 ## Getting Started
 
